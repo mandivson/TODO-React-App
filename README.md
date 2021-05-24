@@ -1,5 +1,5 @@
 # TODO-React-App
-**This is a TODO created using React.**
+**This is a TODO app created using React.**
 
 The features of this app are:
   
